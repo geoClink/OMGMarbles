@@ -26,15 +26,6 @@ Project Structure
 - `Assets.xcassets` — included sprite and particle assets
 - `AppDelegate.swift` — app lifecycle
 
-Keywords
-- SpriteKit
-- iOS
-- Swift
-- Game
-- Marbles
-- Physics
-- Particle Effects
-
 Notes
 - This repository is intended as a compact demo or learning reference. Feel free to fork and extend the gameplay mechanics, scoring, or asset library.
 
