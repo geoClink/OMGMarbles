@@ -38,5 +38,4 @@ Keywords
 Notes
 - This repository is intended as a compact demo or learning reference. Feel free to fork and extend the gameplay mechanics, scoring, or asset library.
 
-License
-- No license is specified in the repository. Add a LICENSE file if you want to set one explicitly.
+
